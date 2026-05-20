@@ -1,0 +1,13 @@
+# License Status: The Social Costs of Intercity Transportation: A Review and Comparison of Air and Highway
+
+Generated: 2026-05-20 14:46:37 AEST
+
+Recorded license/access note from the verified audit row: Publisher terms apply to the paper; Full Cost Project/report and source-estimate provenance notes apply to staged analytical materials.
+
+Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+
+## Practical Rule
+
+- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
+- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
+- Third-party raw data and publisher PDFs are not relicensed here.
