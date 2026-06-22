@@ -1,5 +1,9 @@
 # The Social Costs of Intercity Transportation: A Review and Comparison of Air and Highway
 
+## Contribution
+
+This paper constructs comparable measures of noise, pollution, accident, and congestion externalities for intercity air and highway travel. It finds that accidents dominate highway social costs, noise dominates air social costs, and a highway trip generates roughly four to five times the external cost of a comparable air trip.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1998-03`
